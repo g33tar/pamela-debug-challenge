@@ -117,4 +117,4 @@ $(function() {
 		selectors.benDescription.slideToggle('slow');
 	});
 
-}();
+}());
